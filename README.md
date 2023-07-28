@@ -90,7 +90,7 @@ generate_word_cloud(negative_reviews, "Word Cloud - Negative Reviews")
 
 ## Credits
 
-This sentiment analysis project is a result of the hard work and dedication of Rohit Poddar. It incorporates various NLP techniques and the Naive Bayes classifier to achieve accurate sentiment predictions from text data.
+This sentiment analysis project is a result of the hard work and dedication of <b>Rohit Poddar</b>. It incorporates various NLP techniques and the Naive Bayes classifier to achieve accurate sentiment predictions from text data.
 
 ## Feedback and Contributions
 
